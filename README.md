@@ -8,7 +8,6 @@ As a frontend developer, I understand that technology is constantly evolving, an
 
 * 🌍  I'm based in Sweden
 * ✉️  You can contact me at [ayshamohd01@gmail.com](mailto:ayshamohd01@gmail.com)
-* 🧠  I'm learning Fullstack Development
 * 🤝  I'm open to collaborating on building modern and responsive websites that leverage the latest frontend technologies and design trends. Let's create websites that are optimized for speed, accessibility, and user experience!
 
 ### Skills
